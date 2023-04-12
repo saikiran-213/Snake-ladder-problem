@@ -9,7 +9,9 @@ public class UC6 {
         UC6 snakeAndLadderGame = new UC6();
         snakeAndLadderGame.snakeAndLadder();
     }
-
+      /*
+       * Use While loop and for loop condition.
+       */
     public void snakeAndLadder() {
         Player sourabh = new Player();
         for ( int dieRoll=0;dieRoll < 28;dieRoll++){
